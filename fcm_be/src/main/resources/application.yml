@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: FCMdemo
+
+firebase:
+  credentials:
+    path: src/main/resources/key/firebase-service-account.json
